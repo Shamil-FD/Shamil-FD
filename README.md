@@ -1,7 +1,8 @@
 <h1 align="center">Helloo I'm Shamil!</h1>
 <h3 align="center">A pretty decent backend developer.</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=shamil-fd&label=Profile%20views&color=0e75b6&style=flat" alt="shamil-fd" /> </p>
+<h4 align="center">Profile Visits</h4>
+<p align="center"> <img src="https://profile-counter.glitch.me/{shamil-fd}/count.svg" alt="shamil-fd" /> </p>
 
 - 🔭 I’m currently working on [ToastyXD](https://github.com/Shamil-FD/ToastyXD)
 
