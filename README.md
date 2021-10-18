@@ -19,7 +19,7 @@
 <details>
   <summary><u><b>My GitHub Statistics</u></b></summary>
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shamil-fd&show_icons=true&theme=radical&locale=en)]
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shamil-fd&show_icons=true&theme=radical&locale=en)
   
 </details>
 
