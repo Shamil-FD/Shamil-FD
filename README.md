@@ -4,11 +4,11 @@
 <h4 align="center">Profile Visits</h4>
 <p align="center"> <img src="https://profile-counter.glitch.me/{shamil-fd}/count.svg" alt="shamil-fd" /> </p>
 
-- 🔭 I’m currently working on [ToastyXD](https://github.com/Shamil-FD/ToastyXD)
+- 🔭 I worked on [ToastyXD](https://github.com/Shamil-FD/ToastyXD)
 
 - ⚡ Fun fact **I'm happy, sometimes.**
 
-
+- 💻 Discord **Shamil#0279**
 <details>
   <summary><u><b>Languages & Tools</u></b></summary>
   
